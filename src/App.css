@@ -1,0 +1,33 @@
+* {
+  font-family: monospace;
+}
+
+.App {
+  text-align: center;
+  background-color: #73b9b0;
+  padding: 20px;
+}
+
+button {
+  font-size: 16px;
+  margin: 12px;
+  padding: 6px;
+  border: 1px solid grey;
+}
+
+h1 {
+  font-size: 40px;
+  color: #3b373b;
+}
+
+h2 {
+  font-size: 24px;
+  color: black;
+}
+
+.childComponent {
+  display: flex;
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+}
